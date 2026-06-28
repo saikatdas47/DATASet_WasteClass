@@ -125,8 +125,6 @@ Classification with Biometric Authentication and Secure Logging},
 }
 ```
 
-*(Replace "Your Name" and the URL with your actual details.)*
-
 ---
 
 ## 🙏 Acknowledgements
